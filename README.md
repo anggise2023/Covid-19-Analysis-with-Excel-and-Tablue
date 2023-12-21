@@ -20,3 +20,6 @@
 - nas_delay (Total Waktu Keterlambatan oleh Sistem Penerbangan Nasional): Total waktu (dalam menit) dari keterlambatan yang disebabkan oleh Sistem Penerbangan Nasional.
 - security_delay (Total Waktu Keterlambatan karena Keamanan): Total waktu (dalam menit) dari keterlambatan yang disebabkan oleh masalah keamanan.
 - late_aircraft_delay (Total Waktu Keterlambatan karena Pesawat Sebelumnya): Total waktu (dalam menit) dari keterlambatan yang disebabkan oleh penerbangan sebelumnya dengan pesawat yang sama mengalami keterlambatan.
+
+# Hasil Tablue
+https://public.tableau.com/shared/4K9D99CR3?:display_count=n&:origin=viz_share_link
